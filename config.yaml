@@ -86,6 +86,17 @@ markup:
         lineNumbersInTable: true
         tabWidth: 4
 
+related:
+    includeNewer: true
+    threshold: 60
+    toLower: false
+    indices:
+        - name: tags
+          weight: 100
+
+        - name: categories
+          weight: 200
+
 
 languageCode: en
 DefaultContentLanguage: en

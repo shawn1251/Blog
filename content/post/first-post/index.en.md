@@ -5,7 +5,8 @@ draft: false
 description: ""
 type: "post"
 tags: []
-categories : ["essay"]
+categories : ["other"]
+tags: ["hugo"]
 ---
 
 I had a sudden inspiration to organize some of my past notes, and when looking for a platform, I took a friend's advice and chose Hugo with GitHub Pages. Here, I'll document the process.

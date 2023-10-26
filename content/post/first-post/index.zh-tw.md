@@ -5,7 +5,8 @@ draft: false
 description: ""
 type: "post"
 tags: []
-categories : ["essay"]
+categories : ["other"]
+tags: ["hugo"]
 ---
 
 這次心血來潮決定將一些過往的筆記進行整理，在尋找平台的時候參考了友人的建議選擇了Hugo搭配github page。以下就來記錄一下過程。

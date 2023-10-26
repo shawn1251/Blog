@@ -1,8 +1,10 @@
-+++
-title = '設定github page'
-date = 2023-10-21T06:42:46+08:00
-draft = false
-+++
+---
+title: '設定github page'
+date: 2023-10-21T06:42:46+08:00
+draft: false
+categories: ["other"]
+tags: ["hugo"]
+---
 
 本篇文章用來記錄這次以Hugo建立Blog後發佈到GitHub Page的過程。
 GitHub本身有個免費的個人網站服務稱作GitHub Page。只要將想要發布的網頁內容上傳到指定格式的repository即可。

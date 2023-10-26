@@ -1,8 +1,10 @@
-+++
-title = 'Setting GitHub page'
-date = 2023-10-21T06:42:46+08:00
-draft = false
-+++
+---
+title: 'Setting GitHub page'
+date: 2023-10-21T06:42:46+08:00
+draft: false
+categories: ["other"]
+tags: ["hugo"]
+---
 
 This article is here to document the process of building a blog using Hugo and publishing it on GitHub Pages.
 GitHub provides a free personal website service called GitHub Pages. You can upload your web content to a designated format repository to make it live.
