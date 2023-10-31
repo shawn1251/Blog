@@ -4,8 +4,8 @@ date: 2023-10-28T00:00:00+08:00
 draft: false
 description: ""
 type: "post"
-categories : ["other"]
-tags: ["vm", "vagrant"]
+categories : ["devops"]
+tags: ["vm", "vagrant", "devops"]
 ---
 
 
