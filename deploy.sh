@@ -9,7 +9,8 @@ hugo
 cd public
 git add .
 git commit -m  "$msg"
-git push publish master
+# git push publish master
+git push origin master
 
 cd ..
 git add .
