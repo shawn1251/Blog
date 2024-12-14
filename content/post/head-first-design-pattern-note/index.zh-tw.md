@@ -1,12 +1,14 @@
 ---
 title: "Head First Design Pattern Note"
-date: 2024-12-13T23:36:18-0800
+date: 2023-12-13T23:36:18-0800
 draft: false
 description: ""
 type: "post"
-categories: []
+categories: ["ReadingNote"]
 tags: []
 ---
+[Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)\
+閱讀筆記。這本書很淺顯易懂，把背後選擇策略的邏輯用容易理解的情境解釋。推薦給想初步了解Design Pattern的人。以下是每個章節的簡單筆記
 ## chapter 1: 策略模式 Strategy Pattern
 策略模式定義了算法族，分別封裝起來，讓他們之間可以互相替換，此模式讓算法的變化獨立於使用算法的客戶
 

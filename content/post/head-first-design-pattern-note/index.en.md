@@ -1,12 +1,15 @@
 ---
 title: "Head First Design Pattern Note"
-date: 2024-12-13T23:36:18-0800
+date: 2023-12-13T23:36:18-0800
 draft: false
 description: ""
 type: "post"
-categories: []
+categories: ["ReadingNote"]
 tags: []
 ---
+Reading Note: [Head First Design Patterns: A Brain-Friendly Guide](https://www.amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)  
+This book is very easy to understand, explaining the logic behind choosing strategies using relatable scenarios. I recommend it to anyone who wants to get a basic understanding of Design Patterns. Below are brief notes for each chapter.
+
 ## Chapter 1: Strategy Pattern
 The Strategy Pattern defines a family of algorithms, encapsulates each one, and makes them interchangeable. This pattern allows the variation of algorithms to be independent of the clients that use them.
 
