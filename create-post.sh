@@ -13,7 +13,7 @@ mkdir -p "$CONTENT_DIR/$title"
 DATE=$(date +"%Y-%m-%dT%H:%M:%S%z")
 
 # Create the English index file
-cat <<EOL > "$CONTENT_DIR/$title/_index.en.md"
+cat <<EOL > "$CONTENT_DIR/$title/index.en.md"
 ---
 title: "$title"
 date: $DATE
@@ -26,7 +26,7 @@ tags: []
 EOL
 
 # Create the Chinese index file
-cat <<EOL > "$CONTENT_DIR/$title/_index.zh.md"
+cat <<EOL > "$CONTENT_DIR/$title/index.zh-tw.md"
 ---
 title: "$title"
 date: $DATE
